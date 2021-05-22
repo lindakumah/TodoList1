@@ -1,0 +1,54 @@
+
+body{
+        text-align: center;
+        }
+
+#myDiv {
+        padding: 10px;
+        border: 0;
+        background-color:  #E93B81;
+        text-align: center;
+        height: 100px;
+        color: blue;
+        }
+    
+#myDiv1 {
+        padding: 10px;
+        border: 0;
+        background-color:  #CA8A8B;
+        text-align: center;
+        height: 100px;
+        color: blue;
+        }
+input{
+        margin-top: 20px;
+}
+button{
+        border-radius: 7px;
+}
+
+#myDiv2 {
+        padding: 10px;
+        border: 0;
+        background-color:  #867AE9;
+        text-align: center;
+        height: 100px;
+        color: blue;
+       }
+
+.aa {
+        text-decoration-line: line-through;
+}
+ul{
+        list-style: none;
+}
+ li{
+        padding: 10px;
+        border: 1px ;
+        width: 30%px;
+        border-radius: 10px;
+       
+}
+li:hover{
+        color: blue;
+}
